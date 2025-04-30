@@ -24,8 +24,8 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
-    SUPPORT_CHAT = "https://t.me/speeds_net"
-    SUPPORT_ID = - 1002076123692
+    SUPPORT_CHAT = "https://t.me/botLogGroup"
+    SUPPORT_ID = -1002115990090
 
     # Database name
     DB_NAME = "MikoDB"
